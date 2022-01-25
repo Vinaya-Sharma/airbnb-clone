@@ -1,3 +1,10 @@
+# Airbnb Clone! 
+This project is a basic airbnb page built using React. 
+
+<img width="576" alt="Screen Shot 2022-01-25 at 3 06 02 PM" src="https://user-images.githubusercontent.com/63084147/151051342-43bf68e6-e144-4eb7-928c-3d43f4c2e6c1.png">
+
+-----------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
